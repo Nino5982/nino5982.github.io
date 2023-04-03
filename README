@@ -1,0 +1,81 @@
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+
+
+### Links
+
+- Solution URL: https://nino5982.github.io/
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+
+### What I learned
+
+
+```html
+ <div>
+      <img src="image-qr-code.png" alt="rq-code" />
+
+      <h1>Improve your front-end skills by building projects</h1>
+
+      <p>
+        Scan the QR code to visit Frontend Mentor and take your coding skills to
+        the next level
+      </p>
+    </div>
+```
+```css
+  div {
+        width: 320px;
+        height: 497px;
+        left: 560px;
+        top: 152px;
+        background: #ffffff;
+        box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+        border-radius: 20px;
+        margin: 152px 560px 151px 560px;
+        padding: 16px;
+      }
+ h1 {
+        height: 56px;
+        margin: 24px 16px 16px 16px;
+        font-family: "Outfit", sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+```
+   <link href="https://fonts.google.com/specimen/Outfit" />
+```
+
+### Continued development
+
+I want to continue focusing on styling in css and flexbox tools in my future projects. These could be concepts i'm still not completely comfortable with and there is a techniques I found useful that I want to refine and perfect.
+
+### Useful resources3
+
+- [resource 1](http://www.csszengarden.com/) - This helped me for understand how to works css. I really liked this pattern and will use it for learning.
+- [resource 2](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) - This is an amazing source which helped me finally understand some html and css basic . I'd recommend it to anyone still learning this concept.
+- [resource 3](https://flexboxfroggy.com/) - This site helped me for understand how works this flexbox tool. I'd recommend it to anyone still learning this concept.
+
+
+
+
+
